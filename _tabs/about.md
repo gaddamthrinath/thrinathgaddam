@@ -22,7 +22,7 @@ Hey there! I'm **Gaddam Thrinath**, a full-stack developer and GenAI engineer wh
   Automating complex workflows with **Selenium, Puppeteer**, and AI-driven bots—because who likes repetitive tasks?  
 
 - **Cloud & DevOps** ☁️  
-  Deploying scalable apps on **AWS, Nginx, Docker, Kubernetes**, and setting up smooth CI/CD pipelines with GitHub Actions.  
+  Deploying scalable apps on AWS, Nginx, Docker, and setting up smooth CI/CD pipelines with GitHub Actions.  
 
 - **Debugging & Problem-Solving** 🔍  
   Proven experience in **troubleshooting and fixing complex bugs**, improving system performance, and ensuring application stability.  
